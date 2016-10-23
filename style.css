@@ -2,6 +2,20 @@ body {
     margin-bottom:40px;
 }
 
+#bodycolor {
+	background-color: #99e6ff;
+}
+
+h1 {
+	text-align: center;
+	padding-top: 30px;
+	color: #00b359;
+}
+
+#buttoncolor {
+	background-color: #9966ff;
+}
+
 .margin-top-10 {
     margin-top:10px;
 }
